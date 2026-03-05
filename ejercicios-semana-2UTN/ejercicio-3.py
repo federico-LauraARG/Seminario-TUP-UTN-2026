@@ -1,0 +1,6 @@
+nombre_de_usuario = input("ingrese su nombre: ")
+apellido_de_usuario = input("ingrese su apellido: ")
+edad_de_usuario = int(input("ingrese su edad: "))
+print(nombre_de_usuario)
+print(apellido_de_usuario)
+print(edad_de_usuario)
